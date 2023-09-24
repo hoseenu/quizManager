@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.hoseenu</groupId>
+  <artifactId>quiz-handler</artifactId>
+  <versioning>
+    <lastUpdated>20230924124410</lastUpdated>
+    <snapshot>
+      <timestamp>20230924.124410</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.9-20230924.124410-2</value>
+        <updated>20230924124410</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.9-SNAPSHOT</version>
+</metadata>
