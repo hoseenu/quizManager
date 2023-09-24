@@ -3,8 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.hoseenu</groupId>
-	<artifactId>QuizHandler</artifactId>
-	<version>0.0.6</version>
+	<artifactId>quiz-handler</artifactId>
+	<version>0.0.9-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	<name>Questions</name>
 	<description>Handling Questions of varios types</description>
 	<licenses>
@@ -32,10 +33,10 @@
 		<plugins>
 			<plugin>
 				<artifactId>maven-deploy-plugin</artifactId>
-				<version>2.8.2</version>
+				<version>3.1.1</version>
 				<configuration>
-					<altDeploymentRepository>internal.repo::default::file:E:\Learning\Quiz\Application\QuizManager</altDeploymentRepository>					
-								
+					<altDeploymentRepository>internal.repo::file:E:\Learning\Quiz\Application\QuizManager</altDeploymentRepository>	
+					<!--<altDeploymentRepository>github::https://github.com/hoseenu/quizManager</altDeploymentRepository>-->
 				</configuration>
 			</plugin>
 		</plugins>
