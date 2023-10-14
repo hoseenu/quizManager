@@ -3,21 +3,21 @@
   <groupId>org.hoseenu</groupId>
   <artifactId>quiz-handler</artifactId>
   <versioning>
-    <lastUpdated>20231011221955</lastUpdated>
+    <lastUpdated>20231014014204</lastUpdated>
     <snapshot>
-      <timestamp>20231011.221955</timestamp>
-      <buildNumber>7</buildNumber>
+      <timestamp>20231014.014204</timestamp>
+      <buildNumber>8</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.12-20231011.221955-7</value>
-        <updated>20231011221955</updated>
+        <value>0.0.12-20231014.014204-8</value>
+        <updated>20231014014204</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.12-20231011.221955-7</value>
-        <updated>20231011221955</updated>
+        <value>0.0.12-20231014.014204-8</value>
+        <updated>20231014014204</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
